@@ -1,0 +1,54 @@
+### C Lion ###
+# ignore build directories
+cmake-build-debug/
+cmake-build-release/
+
+# ignore CLion project files
+.idea/
+
+# ignore compiled object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# ignore executable files
+*.exe
+*.out
+*.app
+
+# ignore libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+*.lai
+*.la
+
+# ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# precompiled headers
+*.gch
+*.pch
+
+# debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+### MacOs ###
+.DS_Store
+
+### VSCode ###
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
