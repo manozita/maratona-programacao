@@ -70,10 +70,3 @@ int quadrante() {
     }
     return 0;
 }
-
-
-
-int main() {
-    quadrante();
-    return 0;
-}

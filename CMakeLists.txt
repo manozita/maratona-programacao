@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(maratona_programacao
         semana1.cpp
         semana1.cpp
+        semana2.cpp
 )
