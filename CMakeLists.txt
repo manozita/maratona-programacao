@@ -7,4 +7,5 @@ add_executable(maratona_programacao
         semana1.cpp
         semana1.cpp
         semana2.cpp
+        semana3.cpp
 )
